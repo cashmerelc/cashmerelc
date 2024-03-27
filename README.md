@@ -8,24 +8,29 @@ American living in Berlin since 2020. SaaS Product Manager since 2016 getting in
 
 ___
 ### Where I've Lived
-<p align="center"> <img src="./images/nashville.jpg" />
-Nashville, TN
+<p align="center"> <img src="./images/nashville.jpg" width="400px"/>
+ 
+<p align="center">Nashville, TN
 
  
-<p align="center"> <img src="./images/chicago.jpeg" />
- Chicago, IL
+<p align="center"> <img src="./images/chicago.jpeg" width="400px"/>
+ 
+ <p align="center">Chicago, IL
 
 
-<p align="center"> <img src="./images/daytona.jpeg" />
- Daytona Beach, FL
+<p align="center"> <img src="./images/daytona.jpeg" width="400px"/>
+ 
+ <p align="center">Daytona Beach, FL
 
 
-<p align="center"> <img src="./images/gainesville.jpeg" />
- Gainesville, FL
+<p align="center"> <img src="./images/gainesville.jpeg" width="400px"/>
+ 
+ <p align="center">Gainesville, FL
 
 
-<p align="center"> <img src="./images/berlin.jpeg" />
- Berlin, Germany
+<p align="center"> <img src="./images/berlin.jpeg" width="400px"/>
+ 
+ <p align="center">Berlin, Germany
 </p>
 
 ___
