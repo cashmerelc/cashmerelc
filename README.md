@@ -5,16 +5,20 @@
 ___
 American living in Berlin since 2020. SaaS Product Manager since 2016 getting into web development.
 
-<p align="center"> <img src="./florida.jpeg" width=600px />
-</p>
 
 ___
 ### Where I've Lived
- - Nashville, TN
- - Chicago, IL
- - Daytona Beach, FL
- - Gainesville, FL
- - Berlin, Germany
+<p align="center"> <img src="./nashville.jpg" />
+Nashville, TN
+<p align="center"> <img src="./chicago.jpeg" />
+ Chicago, IL
+<p align="center"> <img src="./daytona.jpeg" />
+ Daytona Beach, FL
+<p align="center"> <img src="./gainesville.jpeg" />
+ Gainesville, FL
+<p align="center"> <img src="./berlin.jpeg" />
+ Berlin, Germany
+</p>
 
 ___
 
