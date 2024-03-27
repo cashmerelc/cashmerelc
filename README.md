@@ -4,8 +4,9 @@
 ### About Me
 American living in Berlin since 2020. SaaS Product Manager since 2016 getting into web development.
 
-### Florida
-![Florida Beach](./florida.jpeg)
+<p align="center"> <img src="./florida.jpeg" width=600px />
+</p>
+
 
 ### Where I've Lived
  - Nashville, TN
@@ -16,6 +17,7 @@ American living in Berlin since 2020. SaaS Product Manager since 2016 getting in
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cashmerelc&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="derekmyers" />
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=cashmerelc&theme=vue-dark&hide_border=true" alt="derekmyers" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cashmerelc&theme=vue-dark&hide_border=true" alt="derekmyers" />
+</p>
 
 
