@@ -1,4 +1,5 @@
 # Welcome to my GitHub page
+[![Linkedin Badge](https://img.shields.io/badge/-DerekMyers-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/derekmyers/)](https://www.linkedin.com/in/derekmyers/)
 
 ### About Me
 American living in Berlin since 2020. SaaS Product Manager since 2016 getting into web development.
