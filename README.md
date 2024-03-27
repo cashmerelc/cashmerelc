@@ -2,18 +2,21 @@
 [![Linkedin Badge](https://img.shields.io/badge/-DerekMyers-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/derekmyers/)](https://www.linkedin.com/in/derekmyers/)
 
 ### About Me
+___
 American living in Berlin since 2020. SaaS Product Manager since 2016 getting into web development.
 
 <p align="center"> <img src="./florida.jpeg" width=600px />
 </p>
 
-
+___
 ### Where I've Lived
  - Nashville, TN
  - Chicago, IL
  - Daytona Beach, FL
  - Gainesville, FL
  - Berlin, Germany
+
+___
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cashmerelc&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="derekmyers" />
 
